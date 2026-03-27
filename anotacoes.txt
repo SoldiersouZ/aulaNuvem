@@ -1,0 +1,4 @@
+comando para rodar este servidor
+npm start
+git init
+git add .
